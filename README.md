@@ -55,4 +55,4 @@ https://redux.js.org/advanced/example-reddit-api
 
 ## Contributing
 
-Feel free to open issues and pull requests!
+Feel free to open issues and pull requests!!
